@@ -1,7 +1,7 @@
 // ===========================
 // Configuration
 // ===========================
-const API_URL = 'http://localhost:5000/api'; // Local development
+const API_URL = 'https://back-m.onrender.com/api'; // Local development
 
 // ===========================
 // State Management
@@ -732,3 +732,4 @@ function showNotification(message, type = 'info', duration = 3000) {
         setTimeout(() => notification.remove(), 300);
     }, duration);
 }
+
