@@ -1,0 +1,13 @@
+<!-- This is a placeholder. Replace with actual logo -->
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="#2c3e50"/>
+  <text x="250" y="220" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    Double M
+  </text>
+  <text x="250" y="280" font-family="Arial, sans-serif" font-size="40" fill="#e74c3c" text-anchor="middle">
+    ACCESSORIES
+  </text>
+  <text x="250" y="350" font-family="Arial, sans-serif" font-size="24" fill="#ecf0f1" text-anchor="middle">
+    Men's Premium Collection
+  </text>
+</svg>
