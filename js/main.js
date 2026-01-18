@@ -1,7 +1,7 @@
 // ===========================
 // Configuration
 // ===========================
-const API_URL = 'https://back-m.onrender.com/'; // Local development
+const API_URL = 'https://back-m.onrender.com/api'; // Local development
 
 // ===========================
 // State Management
@@ -730,4 +730,5 @@ style.textContent = `
     }
 `;
 document.head.appendChild(style);
+
 
